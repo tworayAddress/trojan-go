@@ -1,10 +1,1 @@
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=billowing-fire-8f3c.hertoor.tk&type=ws&host=billowing-fire-8f3c.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=square-frog-4c42.hertoor.tk&type=ws&host=square-frog-4c42.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=frosty-violet-44d7.hertoor.tk&type=ws&host=frosty-violet-44d7.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=sweet-king-8d9a.hertoor.tk&type=ws&host=sweet-king-8d9a.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=black-tooth-e4c7.hertoor.tk&type=ws&host=black-tooth-e4c7.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=polished-star-72e3.hertoor.tk&type=ws&host=polished-star-72e3.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=dark-silence-7ddc.hertoor.tk&type=ws&host=dark-silence-7ddc.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=flat-art-7415.hertoor.tk&type=ws&host=flat-art-7415.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=raspy-base-55e9.hertoor.tk&type=ws&host=raspy-base-55e9.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
-trojan://ce47408f-e4fa-4be8-bb5e-71abe3fd6a81@162.159.137.77:443?security=tls&sni=gentle-glitter-84a3.hertoor.tk&type=ws&host=gentle-glitter-84a3.hertoor.tk&path=%2Fce47408f-e4fa-4be8-bb5e-71abe3fd6a81-trojan#1
+
